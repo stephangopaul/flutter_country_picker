@@ -1,4 +1,5 @@
 Map<String, String> cn = {
+  "UNK": "未知",
   "AF": "阿富汗",
   "AX": "奥兰",
   "AL": "阿尔巴尼亚",

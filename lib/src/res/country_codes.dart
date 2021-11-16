@@ -1,5 +1,18 @@
 final List<Map<String, dynamic>> countryCodes = [
   {
+    "e164_cc": "0",
+    "iso2_cc": "UNK",
+    "e164_sc": 0,
+    "geographic": true,
+    "level": 1,
+    "name": "Unknown",
+    "example": "000",
+    "display_name": "Unknown",
+    "full_example_with_plus_sign": "+000",
+    "display_name_no_e164_cc": "Unknown (UNK)",
+    "e164_key": "UNK"
+  },
+  {
     "e164_cc": "93",
     "iso2_cc": "AF",
     "e164_sc": 0,

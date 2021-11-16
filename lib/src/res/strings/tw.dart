@@ -1,4 +1,5 @@
 Map<String, String> tw = {
+  "UNK": "未知",
   "AF": "阿富汗",
   "AX": "奧蘭",
   "AL": "阿爾巴尼亞",
